@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dammie0/Advice-Generator-App.git](https://your-solution-url.com)
+- Live Site URL: [https://advice-generator-app-22.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
